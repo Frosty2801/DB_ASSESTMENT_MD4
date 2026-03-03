@@ -68,3 +68,9 @@ GET: /suppliers
 
 POST: /suppliers
 
+
+## TECNOLOGIES USED:
+- PostgreSQL
+- Javascript(node / express.js)
+- MongoDB
+- Postman
