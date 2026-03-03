@@ -1,0 +1,6 @@
+DB_HOST=51.222.142.204
+DB_PORT=5432
+DB_NAME=richie_ft_tesla
+DB_USER=riwi_cohorte_6
+DB_PWD=Riwi2026+
+APP_PORT=3000

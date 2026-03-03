@@ -1,0 +1,30 @@
+{
+  "name": "db_assestment_md4",
+  "version": "1.0.0",
+  "description": "Repo for the module 4 - databases of Riwi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frosty2801/DB_ASSESTMENT_MD4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frosty2801/DB_ASSESTMENT_MD4/issues"
+  },
+  "homepage": "https://github.com/Frosty2801/DB_ASSESTMENT_MD4#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3",
+    "pg": "^8.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
